@@ -1,0 +1,29 @@
+# Vivado project/build artifacts
+*.jou
+*.log
+*.str
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+*.gen/
+vivado*.jou
+vivado*.log
+*.dcp
+*.bit
+*.ltx
+*.rpt
+
+# Simulation artifacts
+*.vcd
+*.wdb
+sim
+a.out
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
+*.swp
